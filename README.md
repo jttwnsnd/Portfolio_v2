@@ -7,3 +7,11 @@ This framework is very light, and allows for a lot of reactive components; all o
 My thinking is this: when learning a framework, build small projects and gradually get bigger.
 
 This is one of my projects.
+
+##Languages and Frameworks Used
+ *HTML
+ *CSS
+ *Javascript
+ *VueJS
+ *Jade
+ *Sass
